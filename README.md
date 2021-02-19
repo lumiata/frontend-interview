@@ -7,7 +7,7 @@ Build a simple UI that consumes endpoints from https://reqres.in/
 
 ## Description
 
-- You are free to use your preferred front-end framework and libraries (plus if you use React/Typescript). 
+- You are free to use your preferred front-end framework and libraries (plus if you use React/Typescript, this repo is prepared for it). 
 - Complete the app in 1 hour and 15 minutes.
 - You can visit any website looking for help.
 - Please be online during the coding.
